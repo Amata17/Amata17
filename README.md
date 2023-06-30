@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/Amata17/Amata17/assets/137194891/90b92833-e122-418c-9f69-b376c4e43020)
 
 <!--
 **Amata17/Amata17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
